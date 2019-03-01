@@ -27,7 +27,7 @@ var itemDescription = [
     "Protective Card Sheets, Item 10041"
 ];
 //array for the prices of the items.
-var itemprice = [149.93, 89.98, 334.93, 22.67];
+var itemPrice = [149.93, 89.98, 334.93, 22.67];
 
 //this is the array for the itemQty, these are the quantities that the custoer ordered of each item : 1, 1, 1, 4.
 var itemQty = [1, 1, 1, 4];
